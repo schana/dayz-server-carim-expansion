@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Infected.*",
+    "ratio": 2
+  },
+  {
+    "name": "StaticPoliceCar",
+    "ratio": 0
+  },
+  {
+    "name": "Animal.*",
+    "ratio": 3
+  },
+  {
+    "name": "StaticHeliCrash",
+    "ratio": 5
+  },
+  {
+    "name": "Vehicle.*Helicopter",
+    "ratio": 4
+  },
+  {
+    "name": "Vehicle(UAZ|Bus|Tractor)",
+    "ratio": 4
+  }
+]
